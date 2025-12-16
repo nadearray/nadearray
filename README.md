@@ -1,5 +1,11 @@
 ## Hi there 👋
-Dynamic Enterprise Systems Analyst & Software Engineer with 9+ years of experience in automation, system integration, and business application development. I led the digital overhaul of the Attorney General’s tabbing process, creating a custom Java-, Excel-, and Acrobat-driven workflow that eliminated paper and saves $15K+ annually. Skilled in Java, Python, C/C++, SQL, ODBC, and advanced workflow tools like PlanetPress/OL Connect. Experienced in AWS, microservices, and security optimization—delivering scalable, cost-efficient solutions across enterprise environments. Currently pursuing my MBA in Project Management to strengthen leadership and strategy for large-scale technical initiatives.
+
+- 🚀 Enterprise Systems Analyst & Software Engineer with 9+ years in automation, system integration, and enterprise apps  
+- 🧠 Led a full digital overhaul at the Attorney General’s Office, eliminating paper and saving $15K+ annually  
+- ⚙️ Tech stack: Java, Python, C/C++, SQL, ODBC, Excel, Acrobat, PlanetPress / OL Connect  
+- ☁️ Experience with AWS, microservices, and security-focused, scalable architectures  
+- 🎓 B.S. in Computer Information Systems — Clemson University  
+- 🎓 MBA (Project Management) — Louisiana State University Shreveport (in progress)
 
 ---
 ### 🧰 Languages and Tools
