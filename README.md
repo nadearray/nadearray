@@ -20,6 +20,11 @@
 
 <br />
 
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DapperDisciple&show_icons=true&bg_color=000000&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&border_color=D4AF37)
+
 ---
 <h3>Where to find me</h3>
 <p><a href="https://www.linkedin.com/in/nadear-raymond-432983225" target="_blank">
