@@ -22,7 +22,8 @@ Dynamic Enterprise Systems Analyst & Software Engineer with 9+ years of experien
 
 
 <h3>Where to find me</h3>
-target="_blank"><img alt="LinkedIn" src="www.linkedin.com/in/nadear-raymond-432983225?&style=for-the-badge&logo=linkedin&logoColor=white"
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadear-raymond-432983225)
+
 <!--
 **nadearray/nadearray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
