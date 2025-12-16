@@ -20,6 +20,9 @@ Dynamic Enterprise Systems Analyst & Software Engineer with 9+ years of experien
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+
+<h3>Where to find me</h3>
+target="_blank"><img alt="LinkedIn" src="www.linkedin.com/in/nadear-raymond-432983225?&style=for-the-badge&logo=linkedin&logoColor=white"
 <!--
 **nadearray/nadearray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
